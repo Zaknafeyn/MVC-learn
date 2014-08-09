@@ -1,3 +1,3 @@
 MVC-learn
 =========
-Repository which constists of projects andmaterials that I use and experimenting with to study ASP.NET MVC  
+Repository which constists of projects and materials that I use and experimenting with to study ASP.NET MVC  
